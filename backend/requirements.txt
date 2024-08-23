@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+bcrypt<4.0.0
+pyjwt
+flask-cors

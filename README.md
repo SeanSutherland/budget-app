@@ -15,6 +15,9 @@ Technologies used:
 ### Frontend
 The frontend of the application is built using React.js. It was originally a fork of this repository: [material-kit-react](https://github.com/minimal-ui-kit/material-kit-react). 
 
+### Security Notes
+Since this project was designed to be run locally over LAN not all API endpoints have been secured. Although application endpoints were secured with the JWT authorization tokens there still exist some adminstrator endpoints for seeding that are not secure. 
+
 ## Demo
 ### Dashboard
 ![Dashboard](./demo/dashboard.png)

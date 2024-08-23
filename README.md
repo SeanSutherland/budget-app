@@ -24,6 +24,7 @@ Users can:
 - Create new transactions
 - Create bulk transactions by uploading a credit card statement
 - Update existing transactions
+- Delete transactions
 - Split transactions with other users
 - Filter by Category, User, Essential vs. non-essential spending, Expense vs. Income
 - Search for transactions
